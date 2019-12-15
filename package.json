@@ -1,0 +1,23 @@
+{
+  "name": "eatdaburger",
+  "version": "1.0.0",
+  "description": "Eat-Da-Burger! is a restaurant app that allows the user to input names of burgers.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jman2908/backviewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jman2908/backviewer/issues"
+  },
+  "homepage": "https://github.com/jman2908/backviewer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}
