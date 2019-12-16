@@ -5,7 +5,7 @@ function printQuestionMarks(num) {
     for (var i = 0; i < num; i++) {
         arr.push("?");
     }
-    return.arr.toString();
+    return arr.toString();
 }
 
 function objToSql(ob) {
